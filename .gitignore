@@ -3,7 +3,6 @@
 # To check why a specific file is ignored, run `git check-ignore -v <filepath>`.
 
 examples
-package-lock.json
 
 # === Rule for dotfiles ===
 # Ignore all dotfiles.
