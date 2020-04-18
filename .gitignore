@@ -2,7 +2,7 @@
 # To test that, run `git ls-files -i --exclude-standard`.
 # To check why a specific file is ignored, run `git check-ignore -v <filepath>`.
 
-examples
+/examples
 
 # === Rule for dotfiles ===
 # Ignore all dotfiles.
