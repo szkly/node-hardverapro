@@ -4,7 +4,7 @@
 ![Total current downloads on NPM](https://raster.shields.io/npm/dt/hardverapro)
 ![node-hardverapro is still being maintained](https://img.shields.io/maintenance/yes/2020)
 
-An API wrapper for the Hungarian classified advertisment site, [hardverapro.hu](https://hardverapro.hu) written in JavaScript
+An API wrapper for the Hungarian classified advertisement site, [hardverapro.hu](https://hardverapro.hu) written in JavaScript
 
 ## Features
 
