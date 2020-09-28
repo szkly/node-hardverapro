@@ -1,26 +1,26 @@
 {
-	"name": "hardverapro",
-	"version": "0.14.3",
-	"description": "An API wrapper for the Hungarian classified advertisment site, hardverapro.hu",
-	"main": "index.js",
-	"scripts": {},
-	"keywords": [
-		"hardverapro",
-		"prohardver",
-		"ph",
-		"classifieds",
-		"web",
-		"scraping"
-	],
-	"author": {
-		"name": "Károly Szakály",
-		"email": "karoly.szakaly2000@gmail.com",
-		"url": "https://github.com/szkly"
-	},
-	"license": "MIT",
-	"dependencies": {
-		"cheerio": "^1.0.0-rc.3",
-		"request": "^2.88.2",
-		"request-promise-native": "^1.0.9"
-	}
+  "name": "hardverapro",
+  "version": "0.14.4",
+  "description": "An API wrapper for the Hungarian classified advertisment site, hardverapro.hu",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "hardverapro",
+    "prohardver",
+    "ph",
+    "classifieds",
+    "web",
+    "scraping"
+  ],
+  "author": {
+    "name": "Károly Szakály",
+    "email": "karoly.szakaly2000@gmail.com",
+    "url": "https://github.com/szkly"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9"
+  }
 }
