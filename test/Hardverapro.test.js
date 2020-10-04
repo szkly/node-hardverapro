@@ -1,4 +1,4 @@
-const Hardverapro = require("../index");
+const Hardverapro = require("../lib/Hardverapro");
 
 let ha;
 
