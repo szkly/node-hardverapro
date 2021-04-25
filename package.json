@@ -1,6 +1,6 @@
 {
   "name": "hardverapro",
-  "version": "0.16.1",
+  "version": "0.16.2",
   "description": "An API wrapper for the Hungarian classified advertisement site, hardverapro.hu",
   "main": "index.js",
   "scripts": {
